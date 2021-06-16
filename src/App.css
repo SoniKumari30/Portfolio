@@ -30,7 +30,7 @@ nav
 .condiv
 {
   padding: 100px ;
-  background-color: rgba(230, 62, 109, 0.582);
+  background-color: rgba(199, 48, 91, 0.582);
   flex:var(--condiv-flex);
 }
 
