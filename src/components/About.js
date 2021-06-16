@@ -7,7 +7,7 @@ class About extends Component {
         return (
             <div className="condiv">
             <h1 className="subtopic">About Me :-</h1>
-            <strong>&nbsp;Hi There, Soni</strong//>
+            <strong>&nbsp;Hi There, Soni</strong>
                <br /> <br />
                <b>
                In 2020, I successfully completed my Engineering with specialization in 'Computer Science & Engineering.
