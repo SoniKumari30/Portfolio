@@ -18,7 +18,7 @@ class Navbar extends Component {
             document.getElementById(this.state.NavItemActive).classList.add('active')
         });
     };
-    render() {//
+    render() {
         return (
             <nav>
             <ul>
