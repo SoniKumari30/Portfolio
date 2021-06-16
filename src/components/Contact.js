@@ -8,7 +8,7 @@ class Contact extends Component {
             <h3>Email  : sonikumarisharma30@gmail.com</h3>
             <h3>Mobile : 7986758852</h3>
             <Social />
-            </div>
+            </div>//
             
             )
         }
