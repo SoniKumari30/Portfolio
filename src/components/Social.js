@@ -19,7 +19,7 @@ class Social extends Component {
               <a href="https://www.facebook.com/profile.php?id=100012697928041" target="_blank" rel="noopener noreferrer">
                   <i className="fab fa-facebook-square"></i>
             
-              </a>//
+              </a>
             
               <a href="https://www.instagram.com/soni_sharma_1/" target="_blank" rel="noopener noreferrer">
             

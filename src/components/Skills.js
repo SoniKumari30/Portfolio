@@ -19,7 +19,7 @@ class Skills extends Component {
             })}
             </ul>
             </div>
-            )//
+            )
         }
     }
     

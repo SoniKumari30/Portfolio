@@ -14,4 +14,4 @@ class Education extends Component {
         }
     }
     
-export default Education//
+export default Education
