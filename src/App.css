@@ -25,12 +25,12 @@ nav
   padding:60px 30px 0px 30px ;
   flex:var(--sidebar-flex);
   background:skyblue(238,103,143);
-  background: linear-gradient(180deg, rgba(32, 32, 218, 0.678) 50%, rgb(25, 187, 228) 80%);
+  background: linear-gradient(180deg, rgba(50, 50, 202, 0.678) 50%, rgb(25, 39, 228) 80%);
 }
 .condiv
 {
   padding: 100px ;
-  background-color:rgb(187, 78, 89);
+  background-color:rgb(226, 83, 98);
   flex:var(--condiv-flex);
 }
 
