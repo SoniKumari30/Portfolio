@@ -12,7 +12,7 @@ class Social extends Component {
               </a>
 
               <a href="https://github.com/SoniKumari30" target="_blank" rel="noopener noreferrer">
-                  <i className="fab fa-github-square"></i>
+                  <i class//Name="fab fa-github-square"></i>
 
               </a>
         
