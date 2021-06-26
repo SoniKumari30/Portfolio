@@ -9,7 +9,7 @@ class Contact extends Component {
             <h3>Mobile : 7986758852</h3>
             <Social />
             </div>
-            //
+            
             )
         }
     }
