@@ -26,6 +26,11 @@ class Social extends Component {
                   <i className="fab fa-instagram-square"></i>
 
               </a>
+              <a href="https://web.whatsapp.com/" target="_blank" rel="noopener noreferrer">
+            
+            <i className="fab fa-whatsapp-square"></i>
+
+        </a>
             
             </div>
             )
