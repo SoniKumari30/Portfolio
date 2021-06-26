@@ -11,6 +11,6 @@ class Education extends Component {
             </div>
             )
         }
-    }
+    }//
     
 export default Education
