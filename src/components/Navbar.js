@@ -35,5 +35,5 @@ class Navbar extends Component {
         }
     }
     
-    export default Navb//ar
+    export default Navbar
     
