@@ -10,7 +10,7 @@ class Education extends Component {
             <Widecard title="To Do Application :-" where="By Using ReactJS" from="June 2021" to="June 2021"/>
             <Widecard title="Commenting Application :-" where="By Using ReactJs" from="May 2021" to="May 2021" />
             </div>
-            )
+            )//
         }
     }
     
