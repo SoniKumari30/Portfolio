@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import Social from '../components/Social'
 class Contact extends Component {
-    render() {//
+    render() {
         return (
             <div className="condiv">
             <h1 className="subtopic">Connect With Me :-</h1>

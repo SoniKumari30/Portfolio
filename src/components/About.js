@@ -4,7 +4,7 @@ import Button from "react-bootstrap/Button"
 
 class About extends Component {
     render() {
-        return (//
+        return (
             <div className="condiv">
             <h1 className="subtopic">About Me :-</h1>
             <strong>&nbsp;Hi There, Soni</strong>
