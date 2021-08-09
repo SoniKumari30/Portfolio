@@ -11,7 +11,7 @@ class Home extends Component {
                 <h1>Hi Folks !!!</h1>
                 <h2><center> Welcome To My Portfolio...</center></h2>
             <img src={profilepic} alt="ProfilePic" className="profilepic"></img>
-            <ReactTypingEffe//ct className="typingeffect" text={['I am soni',' A Learner','A Programmer','A Frontend Developer']}/>
+            <ReactTypingEffect className="typingeffect" text={['I am soni',' A Learner','A Programmer','A Frontend Developer']}/>
             </div>
             )
         }
