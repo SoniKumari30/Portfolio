@@ -10,7 +10,7 @@ class Education extends Component {
             <Widecard title="Full stack Developer Intern/ Trainee" where="DCT Academy, Bangalore" from="Feb 2020" to="Aug 2020"/>
             </div>
             )
-        }
+        }//
     }
     
 export default Education
