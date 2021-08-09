@@ -13,7 +13,7 @@ class Widecard extends Component {
             </div>
             )
         }
-    }
+    }//
     
 export default Widecard
     
