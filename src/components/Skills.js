@@ -14,7 +14,7 @@ class Skills extends Component {
             <div className="condiv skills">
             <h1 className="subtopic">My Tach Stack :-</h1>
             <ul>
-            {this.state.myskill//s.map((value)=>{
+            {this.state.myskills.map((value)=>{
                 return <li>{value}</li>
             })}
             </ul>
