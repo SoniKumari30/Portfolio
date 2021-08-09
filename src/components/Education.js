@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import Widecard from '../components/Widecard'
 
-class Education extends Component {
+class Education extends Component {//
     render() {
         return (
             <div className="condiv">
